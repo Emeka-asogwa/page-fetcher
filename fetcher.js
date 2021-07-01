@@ -4,9 +4,6 @@ const url = args[0];
 const filePath = args[1];
 const fs = require('fs');
 
-//const input = process.argv.slice(2);
-// const [server, path] = [input[0], input[1]];
-
 //const fsSizeBytes = fs.readFileSync(filePath).length;
 const readline = require('readline');
 
